@@ -41,9 +41,24 @@ Install-Package Grpc.Tools
 ```
 grpcurl -d '{ \"name\": \"World\" }' localhost:5001 greet.Greeter/SayHello
 grpcurl localhost:5001 describe
+grpcurl localhost:5001 describe greet.HelloRequest
 ```
 
 <img src="/pictures/grpc_reflexion.png" title="grpc reflexion"  width="800">
+
+
+
+## GrpcMicroservices
+
+### Package Manager Command in ProductGrpc
+```
+Install-Package Grpc.AspNetCore
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.InMemory
+Install-Package AutoMapper
+```
+
+<img src="/pictures/product_proto_config.png" title="product proto config"  width="800">
 
 
 
