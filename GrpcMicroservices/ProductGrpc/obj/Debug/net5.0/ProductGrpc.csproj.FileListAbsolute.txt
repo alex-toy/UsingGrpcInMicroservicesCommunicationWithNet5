@@ -19,6 +19,8 @@ C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\bin\Debug\net5.0\ProductCommon.dll
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\bin\Debug\net5.0\ProductCommon.pdb
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\obj\Debug\net5.0\ProductGrpc.csproj.AssemblyReference.cache
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\obj\Debug\net5.0\ProductGrpc.GeneratedMSBuildEditorConfig.editorconfig
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductGrpc\obj\Debug\net5.0\ProductGrpc.AssemblyInfoInputs.cache

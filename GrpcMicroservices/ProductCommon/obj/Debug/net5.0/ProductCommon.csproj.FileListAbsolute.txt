@@ -1,0 +1,12 @@
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\bin\Debug\net5.0\ProductCommon.deps.json
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\bin\Debug\net5.0\ProductCommon.dll
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\bin\Debug\net5.0\ProductCommon.pdb
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ProductCommon.csproj.AssemblyReference.cache
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ProductCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ProductCommon.AssemblyInfoInputs.cache
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ProductCommon.AssemblyInfo.cs
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ProductCommon.csproj.CoreCompileInputs.cache
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ProductCommon.dll
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\refint\ProductCommon.dll
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ProductCommon.pdb
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcMicroservices\ProductCommon\obj\Debug\net5.0\ref\ProductCommon.dll

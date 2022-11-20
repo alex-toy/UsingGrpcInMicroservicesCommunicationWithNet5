@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tGRRdnabLjiS9oOBWMy7Hd0UymSlb88+jvnQAR5thDOS9akIhHepay1kd0y6YaO64xr/UKpKhnO3t/V4fMzUwA==",
+  "dgSpecHash": "ZhqowIyMqkX9j3pdE70kdBivRiPVl64XGUP5U4/CqrjkIrb9tNK3K8OgoIah4LDC6jpdquT04z062+WdHgJKiQ==",
   "success": true,
   "projectFilePath": "C:\\source\\Csharp\\UsingGrpcInMicroservicesCommunicationWithNet5\\GrpcMicroservices\\ProductGrpc\\ProductGrpc.csproj",
   "expectedPackageFiles": [

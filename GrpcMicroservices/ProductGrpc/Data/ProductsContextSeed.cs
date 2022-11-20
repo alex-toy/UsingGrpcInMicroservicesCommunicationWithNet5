@@ -1,4 +1,5 @@
-﻿using ProductGrpc.Models;
+﻿//using ProductGrpc.Models;
+using ProductCommon.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,7 @@ namespace ProductGrpc.Data
                         Name = "Mi10T",
                         Description = "New Xiaomi Phone Mi10T",
                         Price = 699,
-                        Status = ProductGrpc.Models.ProductStatus.INSTOCK,
+                        Status = ProductStatus.INSTOCK,
                         CreatedTime = DateTime.UtcNow
                     },
                     new Product
@@ -29,7 +30,7 @@ namespace ProductGrpc.Data
                         Name = "P40",
                         Description = "New Huawei Phone P40",
                         Price = 899,
-                        Status = ProductGrpc.Models.ProductStatus.INSTOCK,
+                        Status = ProductStatus.INSTOCK,
                         CreatedTime = DateTime.UtcNow
                     },
                     new Product
@@ -38,7 +39,7 @@ namespace ProductGrpc.Data
                         Name = "A50",
                         Description = "New Samsung Phone A50",
                         Price = 399,
-                        Status = ProductGrpc.Models.ProductStatus.INSTOCK,
+                        Status = ProductStatus.INSTOCK,
                         CreatedTime = DateTime.UtcNow
                     }
                 };

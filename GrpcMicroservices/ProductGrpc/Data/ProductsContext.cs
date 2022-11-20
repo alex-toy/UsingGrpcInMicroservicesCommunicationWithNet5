@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ProductGrpc.Models;
+using ProductCommon.Models;
+//using ProductGrpc.Models;
 using System;
 
 namespace ProductGrpc.Data

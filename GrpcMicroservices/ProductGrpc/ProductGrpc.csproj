@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Mapper\ProductProfile.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Remove="Protos\product.proto" />
   </ItemGroup>
 
@@ -20,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Mapper\" />
+    <ProjectReference Include="..\ProductCommon\ProductCommon.csproj" />
   </ItemGroup>
 
   <ItemGroup>

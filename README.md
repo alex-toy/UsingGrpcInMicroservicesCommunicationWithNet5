@@ -1,4 +1,4 @@
-# Using Grpc In Microservices Communication With .Net5
+# Using *Grpc* In Microservices Communication With .Net5
 
 With **gRPC** in ASP.NET 5, we will develop high-performance, cross-platform applications for building distributed systems and APIs. It’s an ideal choice for communication between backend microservices, internal network applications, or iot devices and services. With the release of ASP.NET 5, Microsoft has added first-class support for creating gRPC services with Asp.Net 5.
 
@@ -59,6 +59,15 @@ Install-Package AutoMapper
 ```
 
 <img src="/pictures/product_proto_config.png" title="product proto config"  width="800">
+
+### Service Reference in ProductGrpcClient
+
+<img src="/pictures/service_reference.png" title="service reference"  width="800">
+
+### **grpc-curl**
+```
+grpcurl -d '{ \"name\": \"World\" }' localhost:5001 product.ProductProtoService/GetProduct
+```
 
 
 

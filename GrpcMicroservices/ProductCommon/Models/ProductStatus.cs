@@ -1,4 +1,4 @@
-﻿namespace ProductGrpc.Models
+﻿namespace ProductCommon.Models
 {
     public enum ProductStatus
     {

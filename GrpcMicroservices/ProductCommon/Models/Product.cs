@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProductGrpc.Models
+namespace ProductCommon.Models
 {
     public class Product
     {
