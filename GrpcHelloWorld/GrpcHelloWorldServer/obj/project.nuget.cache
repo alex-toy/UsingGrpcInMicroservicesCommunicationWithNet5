@@ -1,10 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "WBD3nmggRCicgibRaaxOOJAncCpOve51BqjkRR/Od1isdrMje1niTgT498URJSayeZA5NI+QbQl+1DTwSyTMXg==",
+  "dgSpecHash": "o3LI+zpdw+eCSJOPWbgRVx5mUmwgH92WZC9bwRDPg2WI9c6whiYg6/4oUb+uZO+QlIcajZvXPM0wFbT3AdHg3A==",
   "success": true,
   "projectFilePath": "C:\\source\\Csharp\\UsingGrpcInMicroservicesCommunicationWithNet5\\GrpcHelloWorld\\GrpcHelloWorldServer\\GrpcHelloWorldServer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+    "C:\\Users\\alexe\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.aspnetcore\\2.50.0\\grpc.aspnetcore.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.aspnetcore.server\\2.50.0\\grpc.aspnetcore.server.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.50.0\\grpc.aspnetcore.server.clientfactory.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.core.api\\2.50.0\\grpc.core.api.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.net.client\\2.50.0\\grpc.net.client.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.net.clientfactory\\2.50.0\\grpc.net.clientfactory.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.net.common\\2.50.0\\grpc.net.common.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\grpc.tools\\2.50.0\\grpc.tools.2.50.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.3\\microsoft.extensions.configuration.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.3\\microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.3\\microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.logging\\3.0.3\\microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }
