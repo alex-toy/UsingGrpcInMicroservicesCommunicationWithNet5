@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBD3nmggRCicgibRaaxOOJAncCpOve51BqjkRR/Od1isdrMje1niTgT498URJSayeZA5NI+QbQl+1DTwSyTMXg==",
+  "success": true,
+  "projectFilePath": "C:\\source\\Csharp\\UsingGrpcInMicroservicesCommunicationWithNet5\\GrpcHelloWorld\\GrpcHelloWorldServer\\GrpcHelloWorldServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
