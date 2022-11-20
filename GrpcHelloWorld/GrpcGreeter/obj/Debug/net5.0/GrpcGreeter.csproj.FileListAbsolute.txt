@@ -28,3 +28,5 @@ C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcHelloWorld\Gr
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcHelloWorld\GrpcGreeter\obj\Debug\net5.0\GrpcGreeter.pdb
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcHelloWorld\GrpcGreeter\obj\Debug\net5.0\GrpcGreeter.genruntimeconfig.cache
 C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcHelloWorld\GrpcGreeter\obj\Debug\net5.0\ref\GrpcGreeter.dll
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcHelloWorld\GrpcGreeter\bin\Debug\net5.0\Grpc.AspNetCore.Server.Reflection.dll
+C:\source\Csharp\UsingGrpcInMicroservicesCommunicationWithNet5\GrpcHelloWorld\GrpcGreeter\bin\Debug\net5.0\Grpc.Reflection.dll

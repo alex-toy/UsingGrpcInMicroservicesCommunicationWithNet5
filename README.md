@@ -25,21 +25,26 @@ Install-Package Grpc.Tools
 ### Package Manager Command in **GrpcGreeter**
 ```
 Install-Package Grpc.AspNetCore
+Install-Package Grpc.AspNetCore.Reflection
 ```
 
+### Package Manager Command in **GrpcGreeterClient**
+```
+Install-Package Grpc.Net.Client
+Install-Package Google.Protobuf
+Install-Package Grpc.Tools
+```
+
+<img src="/pictures/proto_config2.png" title="proto config"  width="800">
+
+### **grpc-curl**
+```
+grpcurl -d '{ \"name\": \"World\" }' localhost:5001 greet.Greeter/SayHello
+grpcurl localhost:5001 describe
+```
+
+<img src="/pictures/grpc_reflexion.png" title="grpc reflexion"  width="800">
 
 
 
 
-Install-Package Npgsql 
-Install-Package Dapper 
-Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection 
-Update-Package -ProjectName Vehicles.Grpc
-
-Install-Package AutoMapper
-Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection
-Install-Package Swashbuckle.AspNetCore.SwaggerUI 
-Install-Package Swashbuckle.AspNetCore.Annotations 
-Install-Package Microsoft.AspNetCore.Authentication.Jwtbearer
-Install-Package Microsoft.EntityFrameworkCore.SqlServer 
-Install-Package Microsoft.EntityFrameworkCore.Tools 
